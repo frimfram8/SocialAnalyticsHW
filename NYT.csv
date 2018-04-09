@@ -1,0 +1,101 @@
+Sentiment Compound Score,Sentiment Negative Score,Sentiment Neutral Score,Sentiment Positive Score,Source Account,Tweet Date,Tweet Text,Tweets Ago
+0.34,0.0,0.745,0.255,@NYT,Mon Apr 09 04:04:57 +0000 2018,19th-Century Playbills to Be Restored and Digitized. https://t.co/xiB2gklkP2,1
+0.5106,0.0,0.732,0.268,@NYT,Mon Apr 09 03:50:56 +0000 2018,"Trust: ‘Trust’ Season 1, Episode 3: Change of Management. https://t.co/cIO5iPSO9n",2
+0.3919,0.1,0.687,0.213,@NYT,Mon Apr 09 03:49:56 +0000 2018,"On Golf: Jordan Spieth Misses a Victory, but Gains Another Masters Memory. https://t.co/DoFsihUvOH",3
+0.0,0.0,1.0,0.0,@NYT,Mon Apr 09 03:04:57 +0000 2018,"Billions: ‘Billions’ Season 3, Episode 3: Boss Moves. https://t.co/teNHTB3NtW",4
+-0.6872,0.288,0.712,0.0,@NYT,Mon Apr 09 02:49:57 +0000 2018,"Orioles 8, Yankees 7 | 12 innings: More Whiffs, and Frustration, for Giancarlo Stanton in Yankees’ Loss. https://t.co/vZHiGVISVo",5
+-0.6486,0.264,0.736,0.0,@NYT,Mon Apr 09 02:34:57 +0000 2018,"The Walking Dead: ‘The Walking Dead’ Season 8, Episode 15: Cleaning House. https://t.co/zZ3iKX3rvn",6
+0.4215,0.0,0.797,0.203,@NYT,Mon Apr 09 02:05:56 +0000 2018,Review: ‘Mean Girls’ Sets the Perils of Being Popular to Song. https://t.co/umsnwjGXlQ,7
+-0.5267,0.236,0.764,0.0,@NYT,Mon Apr 09 02:04:56 +0000 2018,On Pro Basketball: Omri Casspi a Casualty of Golden State’s Numbers Game. https://t.co/0lyOIWouiY,8
+0.34,0.0,0.821,0.179,@NYT,Mon Apr 09 01:03:56 +0000 2018,North Korea Said to Offer Direct Assurance It Will Discuss Denuclearization. https://t.co/DIa9qhbGWk,9
+0.0,0.0,1.0,0.0,@NYT,Mon Apr 09 00:50:56 +0000 2018,"In the N.B.A., the Court and the Canvas Are Increasingly Intertwined. https://t.co/mvWqsmiYHB",10
+0.5106,0.0,0.645,0.355,@NYT,Mon Apr 09 00:49:56 +0000 2018,‘A Culture Free of Sexual Violence’. https://t.co/wQcgctvtJj,11
+-0.5719,0.27,0.73,0.0,@NYT,Mon Apr 09 00:35:56 +0000 2018,Op-Ed Columnist: Horror of Being Governed by ‘Fox &amp; Friends’. https://t.co/JN4qlt9t5g,12
+-0.6597,0.386,0.614,0.0,@NYT,Mon Apr 09 00:34:56 +0000 2018,Op-Ed Columnist: The Tragedy of James Comey. https://t.co/EcbFEdLRBt,13
+-0.6124,0.267,0.733,0.0,@NYT,Mon Apr 09 00:33:56 +0000 2018,A Town That Lives for Hockey Is Devastated by Humboldt Broncos’ Deaths. https://t.co/7Oe7wLu3Cu,14
+0.0,0.0,1.0,0.0,@NYT,Mon Apr 09 00:04:56 +0000 2018,Nordstrom Opening a New York Store as Other Retailers Close Theirs. https://t.co/dfTNHUd97i,15
+0.0,0.0,1.0,0.0,@NYT,Mon Apr 09 00:03:56 +0000 2018,"In John Bolton, Trump Finds a Fellow Political Blowtorch. Will Foreign Policy Burn?. https://t.co/pLVh0nlNIi",16
+-0.4767,0.279,0.721,0.0,@NYT,Sun Apr 08 23:49:56 +0000 2018,Editorial: America’s State Courts Are Under Partisan Attack. https://t.co/EwGo7nj9D0,17
+0.4019,0.0,0.748,0.252,@NYT,Sun Apr 08 23:48:56 +0000 2018,Pyongyang Welcomes Hundreds of Foreigners for Yearly Marathon. https://t.co/t9UotDAOGd,18
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 23:35:56 +0000 2018,Art Collector and Bon Vivant Dies in Trump Tower Home He Couldn’t Sell. https://t.co/YmF3yK0Tfm,19
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 23:34:56 +0000 2018,"With Alain Vigneault Out, Rangers Have Yet Another Position to Fill. https://t.co/CUfWD21hBp",20
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 23:19:56 +0000 2018,Art Collector and Bon Vivant Dies in Trump Tower Home He Couldn’t Sell. https://t.co/YFjUMkuala,21
+0.5719,0.0,0.684,0.316,@NYT,Sun Apr 08 23:04:56 +0000 2018,Patrick Reed Wins the Masters in a Breakthrough Performance. https://t.co/K4tlyPPAia,22
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 23:03:55 +0000 2018,‘You Are the Product’: Targeted by Cambridge Analytica on Facebook. https://t.co/dEkCTVO7c1,23
+0.5719,0.0,0.709,0.291,@NYT,Sun Apr 08 22:51:55 +0000 2018,"Orban Wins Sweeping Majority, and Control of Hungary’s Constitution. https://t.co/GYCZwdYIm4",24
+-0.4767,0.193,0.807,0.0,@NYT,Sun Apr 08 22:50:55 +0000 2018,"As Trump Seeks Way Out of Syria, New Attack Pulls Him Back In. https://t.co/I39XouTPzt",25
+-0.128,0.158,0.842,0.0,@NYT,Sun Apr 08 22:49:56 +0000 2018,A Tough Task for Facebook: European-Type Privacy for All. https://t.co/RnuYHe1I8j,26
+-0.4767,0.256,0.744,0.0,@NYT,Sun Apr 08 22:48:55 +0000 2018,"6 Men Were Plotting Attack on Berlin Half-Marathon, Police Say. https://t.co/YAju8GZHXK",27
+-0.2732,0.259,0.741,0.0,@NYT,Sun Apr 08 22:24:55 +0000 2018,Metropolitan Diary: A Cut With Some Class. https://t.co/kpEd0ZhZ6i,28
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 22:23:55 +0000 2018,Contributing Op-Ed Writer: The Fox in the Stroller. https://t.co/a8UmTrQvTe,29
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 22:22:55 +0000 2018,Letters: Social Media and the 2016 Presidential Campaign. https://t.co/BQLacpopyZ,30
+-0.4939,0.348,0.652,0.0,@NYT,Sun Apr 08 22:21:55 +0000 2018,Letters: Teenage Vaping: Marketing and Dangers. https://t.co/RjWB9fHd4B,31
+0.7003,0.0,0.508,0.492,@NYT,Sun Apr 08 22:20:55 +0000 2018,"Letter: Better Education, to Prepare Better Citizens. https://t.co/RyIBaDXxPy",32
+-0.2732,0.344,0.656,0.0,@NYT,Sun Apr 08 22:19:56 +0000 2018,A Cut With Some Class. https://t.co/GSib6kRfjX,33
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 22:18:55 +0000 2018,"‘I Kept Thinking of Antioch’: Long Before #MeToo, a Times Video Journalist Remembered a Form She Signed in 2004. https://t.co/dCIGuBqAYI",34
+-0.6908,0.449,0.551,0.0,@NYT,Sun Apr 08 22:05:56 +0000 2018,Two Men Charged in Bronx Teacher’s Overdose Death. https://t.co/UbQ9BsjxDj,35
+-0.6124,0.357,0.643,0.0,@NYT,Sun Apr 08 22:04:55 +0000 2018,Deutsche Bank Replaces C.E.O. Amid Losses and Lack of Direction. https://t.co/BjQzm1asoU,36
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 21:49:55 +0000 2018,"Review: American Composers Orchestra Brings Jazz to Classical, Effortlessly. https://t.co/qkO2PdW3my",37
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 21:34:55 +0000 2018,Night at the Space Museum: 10 Open Bars and Tons of Kubrick References. https://t.co/Io1GhYCI2e,38
+0.3818,0.0,0.755,0.245,@NYT,Sun Apr 08 21:20:55 +0000 2018,Credit Card Signatures Are About to Become Extinct. https://t.co/5D2JA6qHs7,39
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 21:19:55 +0000 2018,Is This the End of the Signature?. https://t.co/AFAephrtRM,40
+-0.7717,0.427,0.573,0.0,@NYT,Sun Apr 08 21:03:55 +0000 2018,"Amid Fears of Trade War, Trump Predicts China Will Relent. https://t.co/8drkJXgw2E",41
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 20:49:55 +0000 2018,"Asia and Australia Edition: Syria, Facebook, Xi Jinping: Your Monday Briefing. https://t.co/VmomL422iu",42
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 20:19:55 +0000 2018,Public Art Fund Summer Season Serves Hot Dogs and Abstraction. https://t.co/wPAtS8Wj4r,43
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 20:08:55 +0000 2018,Contributing Op-Ed Writer: Est-ce illégal de quitter son pays?. https://t.co/W0oL7ohcWE,44
+-0.5859,0.324,0.676,0.0,@NYT,Sun Apr 08 20:07:55 +0000 2018,Contributing Op-Ed Writer: Can It Be Illegal to Leave Your Country?. https://t.co/w0YVTZRBlp,45
+0.4588,0.0,0.7,0.3,@NYT,Sun Apr 08 20:06:55 +0000 2018,"Heng: Isn’t the Panda Cute, Mr. Trump?. https://t.co/N26TbOkSpU",46
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 20:05:55 +0000 2018,Op-Ed Contributor: Trash-Talking Toward Conflict?. https://t.co/OKddkvRJ24,47
+-0.296,0.216,0.784,0.0,@NYT,Sun Apr 08 20:04:55 +0000 2018,The Shift: Facebook’s Other Critics: Its Viral Stars. https://t.co/4rSUbn4Lnw,48
+0.3612,0.13,0.592,0.278,@NYT,Sun Apr 08 19:18:55 +0000 2018,"‘A Quiet Place’ Is a Huge No. 1 at the Box Office, Boosting Paramount. https://t.co/LzXqdqB0kF",49
+0.5423,0.0,0.741,0.259,@NYT,Sun Apr 08 18:52:55 +0000 2018,"Review: With ‘Dougla,’ Dance Theater of Harlem Recalls Past Glory. https://t.co/zcFFifYRgg",50
+0.5106,0.0,0.68,0.32,@NYT,Sun Apr 08 18:50:55 +0000 2018,Op-Ed Columnist: Unicorns of the Intellectual Right. https://t.co/TNBMBYHKjg,51
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 18:49:55 +0000 2018,The Week Ahead: New Long-Term Economic Forecast and Facebook Founder Testimony. https://t.co/eXxTpPbbpt,52
+-0.743,0.448,0.552,0.0,@NYT,Sun Apr 08 18:48:55 +0000 2018,Chemical Weapon Attacks in Syria Show No Signs of Letting Up. https://t.co/yHF5CqRdQo,53
+-0.34,0.274,0.595,0.131,@NYT,Sun Apr 08 18:31:55 +0000 2018,"Trump Vows ‘Big Price’ for Syria Attack, Raising Prospect of Missile Strike. https://t.co/vCvltyM6jl",54
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 18:30:55 +0000 2018,"Eric Bristow, the First Superstar of Darts, Dies at 60. https://t.co/itK9oYrWK4",55
+-0.25,0.25,0.75,0.0,@NYT,Sun Apr 08 16:07:54 +0000 2018,Indian Actress Stages a Revealing #MeToo Protest. https://t.co/xk6F1B24j5,56
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 15:47:56 +0000 2018,"For Luigi Di Maio, It’s Now or Never to Lead Italy. Unless It’s Later.. https://t.co/tol37oSMOM",57
+0.743,0.0,0.69,0.31,@NYT,Sun Apr 08 15:47:02 +0000 2018,Com Journal: East Timor Has Some of the World’s Richest Reefs. Can It Profit Safely?. https://t.co/1Glq5JY4tE,58
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 15:44:56 +0000 2018,Q. &amp; A.: Tell Us 5 Things About Your Book: Bringing ‘Giant’ to the Big Screen. https://t.co/8q9FvhcWHK,59
+0.2732,0.152,0.621,0.228,@NYT,Sun Apr 08 15:40:54 +0000 2018,Michigan Will No Longer Provide Free Bottled Water to Flint. https://t.co/sUpBIBPdwB,60
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 15:29:57 +0000 2018,Bethanie Mattek-Sands’s Husband Follows Her Everywhere. Even the Operating Table. https://t.co/GBCK528y3w,61
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 14:18:21 +0000 2018,"At the Public Theater, a Mother, a Daughter and Deportation. https://t.co/FgErcxiav6",62
+-0.34,0.194,0.806,0.0,@NYT,Sun Apr 08 14:01:25 +0000 2018,South Carolina Congressman Pulls Out Gun at a Meeting With Voters. https://t.co/V9e2xpWi2J,63
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 13:15:54 +0000 2018,"Once a Getaway Where Bunnies Frolicked, Now a ‘Black Hole’. https://t.co/OWAT5r5JWa",64
+-0.6486,0.346,0.654,0.0,@NYT,Sun Apr 08 11:02:53 +0000 2018,Dozens Suffocate in Syria as Government Is Accused of Chemical Attack. https://t.co/PFhXgRepOt,65
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 10:22:10 +0000 2018,Republicans Seize on Impeachment for Edge in 2018 Midterms. https://t.co/6DCRrJnYUL,66
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 09:30:01 +0000 2018,"Move Aside, Conor: Nurmagomedov Takes U.F.C.’s 155-Pound Crown. https://t.co/po7ONwWvDE",67
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 09:29:53 +0000 2018,"Homes That Sold for Around $750,000. https://t.co/z4vSWG8jJZ",68
+-0.3182,0.161,0.839,0.0,@NYT,Sun Apr 08 07:39:22 +0000 2018,A Cardi B Reveal and an Odd R. Kelly Sketch on ‘Saturday Night Live’. https://t.co/uxo6ddOqr6,69
+0.0,0.201,0.597,0.201,@NYT,Sun Apr 08 07:12:16 +0000 2018,Zuckerberg Gets a Crash Course in Charm. Will Congress Care?. https://t.co/3gD4f7rkYD,70
+0.5859,0.0,0.817,0.183,@NYT,Sun Apr 08 05:50:52 +0000 2018,"Minnesota Duluth 2, Notre Dame 1: Minnesota Duluth Beats Notre Dame to Win N.C.A.A. Men’s Hockey Title. https://t.co/pPvn9Voai9",71
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:28:52 +0000 2018,What’s on TV Sunday: ‘Killing Eve’ and ‘Howards End’. https://t.co/9xjaag6J2U,72
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:09:52 +0000 2018,"Candida Moss, Justin Foa. https://t.co/BBK8tL4IHO",73
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:08:02 +0000 2018,"Anna Ward, Daniel Frendl. https://t.co/hBwkkVSUaX",74
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:07:05 +0000 2018,"Anne Blackstock-Bernstein, Kyle Warren. https://t.co/TuV2uuEdzm",75
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:05:52 +0000 2018,"Delaney Simon, Graeme Smith. https://t.co/AnDakdnXYp",76
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:04:52 +0000 2018,"Lauren Attaway, Rogelio Thomas Jr.. https://t.co/g7NO4DRk3i",77
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:03:52 +0000 2018,"Daniela Suarez, Sam Schatz. https://t.co/CAzXvpGNDZ",78
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:02:52 +0000 2018,"Vidya Puthenpura, Vijay Yanamadala. https://t.co/Wxsx1wXkkr",79
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 05:01:52 +0000 2018,"Heather Chronis, Michael Danek. https://t.co/v1e6Nw49qm",80
+-0.34,0.231,0.769,0.0,@NYT,Sun Apr 08 04:52:52 +0000 2018,Rangers Fire Alain Vigneault After Rare Playoff-Less Season. https://t.co/NfENSY4jg2,81
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:41:52 +0000 2018,"Alicia Ortega, Debraj Mukherjee. https://t.co/LNmYu5LWuw",82
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:40:52 +0000 2018,"Tiffany Peng, Jason Hwa. https://t.co/s2KbmznvGP",83
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:39:52 +0000 2018,"Rebecca Stump, Justin Werner II. https://t.co/6JFQ8wzItK",84
+0.4215,0.0,0.588,0.412,@NYT,Sun Apr 08 04:38:52 +0000 2018,"Grace Chapin, Jason James. https://t.co/frQxmVUWqc",85
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:37:57 +0000 2018,"Susan Edwards, Pete Strom. https://t.co/3xj0mfoXvJ",86
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:36:52 +0000 2018,"Constance Carter, Gordon Dale. https://t.co/RgNDPCzffz",87
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:35:52 +0000 2018,"Lindsey Pearl, Leah Rubin-Cadrain. https://t.co/elKB6XDTh8",88
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:34:52 +0000 2018,"Eric Chow, Christopher Chambers. https://t.co/YxK9zR8NVd",89
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 04:33:52 +0000 2018,"Priya Prasad, James Bowe III. https://t.co/5FVfg1LRCs",90
+0.4215,0.0,0.588,0.412,@NYT,Sun Apr 08 04:32:52 +0000 2018,"Faith Spencer, James Armstrong. https://t.co/6SCH5dYI9C",91
+0.0258,0.0,0.927,0.073,@NYT,Sun Apr 08 03:04:52 +0000 2018,"Rickie Fowler, Within Reach of a Masters Title, Tries to Keep the Past at Bay. https://t.co/e1uOZZmJow",92
+-0.4939,0.286,0.714,0.0,@NYT,Sun Apr 08 02:08:51 +0000 2018,Congo Rejects a Humanitarian Appeal on Its Own Behalf. https://t.co/dPRrTTV2CK,93
+-0.2023,0.205,0.795,0.0,@NYT,Sun Apr 08 02:07:51 +0000 2018,Denver Post Rebels Against Its Hedge-Fund Ownership. https://t.co/i1kHDGHmRq,94
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 01:46:52 +0000 2018,"Clint Capela Found His Shot, and He’s Taking It. https://t.co/dXZQXv7Glt",95
+0.4019,0.217,0.476,0.307,@NYT,Sun Apr 08 00:44:51 +0000 2018,"Patrick Reed Leads the Masters, With Rory McIlroy’s Grand Slam Hopes Lurking. https://t.co/MSOiEcdE0g",96
+0.0,0.0,1.0,0.0,@NYT,Sun Apr 08 00:16:51 +0000 2018,"Mets 3, Nationals 2: Mets May Be Lacking in Speed but They’re Off to a Very Fast Start. https://t.co/7VzMYmfqhk",97
+-0.765,0.485,0.515,0.0,@NYT,Sat Apr 07 23:59:51 +0000 2018,Poison Gas Attack Reported by Syrian Anti-Government Activists. https://t.co/bObeTJz8dS,98
+-0.5719,0.346,0.654,0.0,@NYT,Sat Apr 07 23:47:51 +0000 2018,Yankees Rebound Emphatically After Their Friday Miseries. https://t.co/q7TI5Vogkg,99
+-0.34,0.194,0.806,0.0,@NYT,Sat Apr 07 23:15:51 +0000 2018,"Fire Breaks Out at Trump Tower in Manhattan, Police Say. https://t.co/dTGwU0rZxc",100
